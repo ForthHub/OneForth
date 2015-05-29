@@ -1,4 +1,4 @@
-  15Jun89
+```  15Jun89
 
   While OneForth is basically a hack of Laxon & Perry's F83, there are 
 some important differences between the two systems.  Please take close
@@ -61,3 +61,5 @@ for this, please send it to me.
   Bob Lee (b0b)
   NiteOwl BBS - US (707)823-3052
   8pm-8am Pacific time  2400 baud
+```
+Note that BBS phone is no longer active. My web site is b0b.com.
